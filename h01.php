@@ -13,7 +13,7 @@
         //Sergei Säälits
         //Harjutus 01
         $nimi = "Sergei";
-        $aasta =1998;
+        $aasta =    1998;
         $kuju = "skorpion";
 
         echo $nimi."<br>".$aasta."<br>".$kuju;
