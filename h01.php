@@ -37,5 +37,26 @@ Leia täisnurkse kolmnurga ümbermõõt ja pindala. Vastused ümardada täisarvu
     echo $arv1." * ".$arv2." = ".$arv1*$arv2."<br>";
     echo $arv1." / ".$arv2." = ".$arv1/$arv2."<br>";
 ?>
+<p> 
+    <h1>Harjus 03</h1>
+    <h2>Trapetsi pindala</h2>
+    <from action="" method="get">
+        a: <input type="text"><br>
+        b: <input type="text"><br>
+        h: <input type="text"><br>
+        <input type="submit" value="Arvuta">
+    </from>
+
+
+
+
+
+
+
+
+
+
+
+</p>
 </body>
 </html>
